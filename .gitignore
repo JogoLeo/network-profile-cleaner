@@ -1,0 +1,10 @@
+# 注册表备份：包含本机全部网络配置（SSID、GUID、网关信息），绝不能提交
+backup/
+*.reg
+
+# Windows / 编辑器杂项
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.tmp
