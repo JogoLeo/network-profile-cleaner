@@ -136,6 +136,4 @@ Get-ChildItem 'HKCU:\Software\_NetworkListBackup'
 
 ---
 
-## License
 
-MIT
